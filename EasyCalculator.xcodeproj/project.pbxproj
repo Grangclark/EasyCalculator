@@ -14,6 +14,7 @@
 		6EE1CC342D3BA2240017B582 /* EasyCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE1CC332D3BA2240017B582 /* EasyCalculatorTests.swift */; };
 		6EE1CC3E2D3BA2240017B582 /* EasyCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE1CC3D2D3BA2240017B582 /* EasyCalculatorUITests.swift */; };
 		6EE1CC402D3BA2240017B582 /* EasyCalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE1CC3F2D3BA2240017B582 /* EasyCalculatorUITestsLaunchTests.swift */; };
+		6EE1CC4F2D3BA3750017B582 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE1CC4E2D3BA3750017B582 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		6EE1CC392D3BA2240017B582 /* EasyCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EasyCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EE1CC3D2D3BA2240017B582 /* EasyCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyCalculatorUITests.swift; sourceTree = "<group>"; };
 		6EE1CC3F2D3BA2240017B582 /* EasyCalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyCalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6EE1CC4E2D3BA3750017B582 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				6EE1CC222D3BA2210017B582 /* EasyCalculatorApp.swift */,
 				6EE1CC242D3BA2210017B582 /* ContentView.swift */,
+				6EE1CC4E2D3BA3750017B582 /* SecondView.swift */,
 				6EE1CC262D3BA2240017B582 /* Assets.xcassets */,
 				6EE1CC282D3BA2240017B582 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6EE1CC4F2D3BA3750017B582 /* SecondView.swift in Sources */,
 				6EE1CC252D3BA2210017B582 /* ContentView.swift in Sources */,
 				6EE1CC232D3BA2210017B582 /* EasyCalculatorApp.swift in Sources */,
 			);
